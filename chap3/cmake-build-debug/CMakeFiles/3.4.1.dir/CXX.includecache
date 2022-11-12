@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/cpp_code/Study_c-_primer/chap3/3.4Iterator/UseIterator.cpp
+iostream
+-
+vector
+-
+string
+-
+
