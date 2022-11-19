@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/cpp_code/Study_cpp_primer/chap4/4.6MemberAccessOperator/practice4.6.cpp
+iostream
+-
+vector
+-
+string
+-
+
